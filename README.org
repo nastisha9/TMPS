@@ -19,8 +19,9 @@ All the solutions are written in =Java=.
 | Laboratory No. | Status | Grade  |
 |----------------+--------+--------|
 | LAB 0          | =DONE= |  =10=  |
-| LAB 1          | =DONE= | =NONE= |
-| LAB 2          | =TODO= | =NONE= |
+| LAB 1          | =DONE= |   =7=  |
+| LAB 2          | =DONE= | =NONE= |
+| LAB 3          | =TODO= | =NONE= |
 |----------------+--------+--------|
 
 ** 📮 CONTACT
