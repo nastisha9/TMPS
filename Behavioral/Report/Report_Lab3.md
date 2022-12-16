@@ -99,7 +99,7 @@ Gold to anything
 
 In ``State pattern`` a class behavior changes based on its state. This type of design pattern comes under behavior pattern. In State pattern, we create objects which represent various states and a context object whose behavior varies as its state object changes.
 
-###Example
+### Example
 For this one I created a class ``JobLevelSpecification`` which can update the employee's level. I has 3 child classes (Bronze, Silver and Gold
 ```java
 public abstract class JobLevelSpecification {
