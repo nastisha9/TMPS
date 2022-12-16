@@ -20,8 +20,8 @@ All the solutions are written in =Java=.
 |----------------+--------+--------|
 | LAB 0          | =DONE= |  =10=  |
 | LAB 1          | =DONE= |   =7=  |
-| LAB 2          | =DONE= | =NONE= |
-| LAB 3          | =TODO= | =NONE= |
+| LAB 2          | =DONE= |  =10=  |
+| LAB 3          | =DONE= | =NONE= |
 |----------------+--------+--------|
 
 ** 📮 CONTACT
